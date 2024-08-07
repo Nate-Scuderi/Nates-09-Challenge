@@ -18,6 +18,8 @@ no installation require simply follow usage info
 
 ## Usage
 In the command line run `node index.js` then follow the prompts to create your own ReadME.
+![image](https://github.com/user-attachments/assets/38791d3c-a2b2-44b5-9665-7796415d1cc9)
+
 
 ## Contributing
 none required
@@ -33,5 +35,5 @@ GitHub: [Nate-Scuderi](https://github.com/Nate-Scuderi)
 
 This project is licensed under the MIT license. [License](https://opensource.org/licenses/MIT)
   
-![image](https://github.com/user-attachments/assets/85d44ece-3d30-4a24-8fde-b5a035a2efc0)
+
 
